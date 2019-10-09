@@ -1,4 +1,5 @@
 # Home-Information-Hub
+Created a Smart Home Hub that displays email, events, weather forecast and estimated time to arrival to your desired location.
 
 Requirements:-
 
